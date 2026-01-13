@@ -1,0 +1,5 @@
+shipment_id,warehouse_id,pharmacy_id,medicine_name,shipment_date,delivery_date,quantity_shipped,quantity_received,daily_demand,current_stock,expiry_days
+S001,W1,P1,Insulin,2024-01-01,2024-01-04,500,480,30,120,90
+S002,W1,P2,Paracetamol,2024-01-02,2024-01-03,1000,1000,50,200,180
+S003,W2,P3,Antibiotic,2024-01-05,2024-01-10,300,280,20,40,60
+S004,W2,P1,Insulin,2024-01-07,2024-01-08,400,400,30,90,85
